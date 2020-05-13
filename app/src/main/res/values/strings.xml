@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Emojify</string>
+    <string name="emojify_me">Emojify Me!</string>
+    <string name="no_emoji">No Emoji Expression Found</string>
+    <string name="saved_message">Image Saved at %1$s</string>
+    <string name="error">Error finding image</string>
+    <string name="go">GO</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="imageview_description">The imageview that contains the emojified picture</string>
+    <string name="no_faces_message">No Faces Detected</string>
+</resources>
